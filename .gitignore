@@ -112,3 +112,7 @@ target/
 
 # Don't ignore the .gitkeep file
 !.gitkeep
+
+drone_keypoints.json
+fisheye_keypoints.json
+gnss_keypoints.json
